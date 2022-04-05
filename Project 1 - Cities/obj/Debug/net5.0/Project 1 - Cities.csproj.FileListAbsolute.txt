@@ -1,0 +1,53 @@
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.exe
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.deps.json
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.runtimeconfig.json
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.runtimeconfig.dev.json
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\ref\Project 1 - Cities.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.pdb
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.GeneratedMSBuildEditorConfig.editorconfig
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.AssemblyInfoInputs.cache
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.AssemblyInfo.cs
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.csproj.CoreCompileInputs.cache
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.csproj.CopyComplete
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\ref\Project 1 - Cities.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.pdb
+F:\5th term\c#\Project 1\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.genruntimeconfig.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.exe
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.deps.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.runtimeconfig.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.runtimeconfig.dev.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\ref\Project 1 - Cities.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.pdb
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.csproj.AssemblyReference.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.AssemblyInfoInputs.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.AssemblyInfo.cs
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.csproj.CoreCompileInputs.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.csproj.CopyComplete
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\ref\Project 1 - Cities.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.pdb
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.genruntimeconfig.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.exe
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.deps.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.runtimeconfig.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.runtimeconfig.dev.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\bin\Debug\net5.0\ref\Project 1 - Cities.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\bin\Debug\net5.0\Project 1 - Cities.pdb
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.csproj.AssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.AssemblyInfo.cs
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.csproj.CopyComplete
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\ref\Project 1 - Cities.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.pdb
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\Project 1 - Cities\obj\Debug\net5.0\Project 1 - Cities.genruntimeconfig.cache

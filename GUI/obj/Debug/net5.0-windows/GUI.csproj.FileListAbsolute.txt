@@ -1,0 +1,78 @@
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.Form1.resources
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.deps.json
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.runtimeconfig.json
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.runtimeconfig.dev.json
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.exe
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.exe
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.deps.json
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\ref\GUI.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.pdb
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.pdb
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\ref\GUI.dll
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.pdb
+F:\5th term\c#\Project 1\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.deps.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.runtimeconfig.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.runtimeconfig.dev.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.exe
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.pdb
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.Form1.resources
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\markk\Desktop\Semester Stuff\SeeSharpAdvanced\Project 1 - Cities\GUI\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.deps.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.runtimeconfig.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.runtimeconfig.dev.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.exe
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\GUI.exe
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\GUI.deps.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\GUI.runtimeconfig.dev.json
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\GUI.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\GUI.pdb
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\bin\Debug\net5.0-windows\Project 1 - Cities.pdb
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.Form1.resources
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\ref\GUI.dll
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.pdb
+C:\Users\Francisco\Documents\GitHub\CanadasPopulation\GUI\obj\Debug\net5.0-windows\GUI.genruntimeconfig.cache
